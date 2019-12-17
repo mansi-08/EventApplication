@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login6"
+    tools:context=".Login">
+
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="371dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/mobile_number"
+
+
+      android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="24dp"
+        android:text="LOGIN">
+
+    </Button>
+
+    <EditText
+        android:id="@+id/mobile_number"
+        android:layout_width="371dp"
+        android:layout_height="60dp"
+        android:layout_below="@+id/main_heading"
+        android:layout_marginLeft="25dp"
+
+android:layout_marginRight="25dp"
+
+
+        android:layout_marginTop="380dp"
+        android:hint="Enter mobile number" />
+
+
+
+</RelativeLayout>

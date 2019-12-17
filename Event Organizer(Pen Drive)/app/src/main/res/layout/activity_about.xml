@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+
+    <TextView
+        android:layout_width="385dp"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentTop="true"
+
+        android:layout_marginTop="40dp"
+        android:width="5dp"
+        android:height="50dp"
+        android:gravity="center"
+        android:text="About Event"
+        android:textColor="@color/colorAccent"
+        android:textSize="24sp"></TextView>
+
+    <TextView
+        android:layout_width="340dp"
+        android:layout_height="509dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="96dp"
+        android:layout_marginRight="30dp"
+        android:width="50dp"
+        android:gravity="center"
+        android:lineSpacingExtra="6sp"
+        android:text="Indians have deep love and devotion for their regional
+identities in terms of tradition and culture. While every region in India has
+its unique presence, Malwa stands tall as a region that has promoted, nurtured
+its culture and traditions. Once ruled by the Holkars, Malwa region has always
+given special attention to its artists irrespective of their art form. Malwa
+region has the unique benefit of its proximity with Maharashtra, Gujrat and
+Rajasthan giving it a rich heritage and cultural lineage. This region has
+produced great poets like ‘Kalidas, mathematicians like Bhrathari, astronomers
+like vrahmihir and bramhgupta and many more. Polymath King Bhoj also ruled this  region. Modern day artists like Lata Mangeshkar hails from malwa!
+"
+        android:textSize="16sp"
+        app:fontFamily="adamina"></TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="-3dp"
+        android:layout_marginEnd="-3dp"
+        android:layout_marginBottom="44dp"
+        android:gravity="center"
+        android:text="POETRY • ART • MUSIC
+"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"></TextView>
+
+</RelativeLayout>

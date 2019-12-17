@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "929466443932",
+    "firebase_url": "https://eventapplication-ac92c.firebaseio.com",
+    "project_id": "eventapplication-ac92c",
+    "storage_bucket": "eventapplication-ac92c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929466443932:android:653f36cccf153824682559",
+        "android_client_info": {
+          "package_name": "com.ssb.eventorganizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929466443932-4r9373bhtrv002lavke2q1735ghlsk5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ssb.eventorganizer",
+            "certificate_hash": "83e7a06c8c3c4ccbc0a3ee0cfa0d77fd325c6835"
+          }
+        },
+        {
+          "client_id": "929466443932-mq7f4vnla6vmthsmmlk1m9jp94vcr1oq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM6XTAewb9lDhq5QExsO2Zx5vpx44fswY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929466443932-mq7f4vnla6vmthsmmlk1m9jp94vcr1oq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
